@@ -1,0 +1,28 @@
+@import 'normalize.css';
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Kumbh+Sans:wght@100..900&display=swap');
+
+:root {
+    --White: #fff;
+    --Black: #000;
+
+    --Primary: #152259;
+    --Primary-300: #509CDB;
+
+    --Grey-5: #FCFAFA;
+    --Grey-100: #A7A7A7;
+    --Grey-200: #8A8A8A;
+    --Grey-400: #4F4F4F;
+    --Grey-500: #424242;
+
+    --Border: #BDBDBD;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Kumbh Sans", sans-serif;
+}
